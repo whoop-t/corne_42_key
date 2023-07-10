@@ -28,7 +28,7 @@
       "LM(2,MOD_LGUI)",
       "MO(2)",
       "MT(MOD_LGUI,KC_ENT)",
-      "KC_NO",
+      "KC_ESC",
       "KC_P",
       "KC_O",
       "KC_I",
