@@ -4,7 +4,7 @@
   "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
-      "KC_ESC",
+      "MT(MOD_LALT | MOD_RALT,KC_ESC)",
       "KC_Q",
       "KC_W",
       "KC_E",
@@ -28,7 +28,7 @@
       "KC_LCTL",
       "MO(2)",
       "MT(MOD_LGUI,KC_ENT)",
-      "KC_RALT",
+      "KC_ESC",
       "KC_P",
       "KC_O",
       "KC_I",
