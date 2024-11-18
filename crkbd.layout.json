@@ -1,7 +1,24 @@
 {
   "name": "Crkbd",
   "vendorProductId": 1179844609,
-  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "macros": [
+    "{KC_LCTL,KC_A}{KC_N}",
+    "{KC_LCTL,KC_A}{KC_P}",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
   "layers": [
     [
       "MT(MOD_LALT | MOD_RALT,KC_ESC)",
@@ -177,7 +194,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "C(S(KC_TAB))",
+      "MACRO(1)",
       "KC_NO",
       "KC_NO",
       "KC_MNXT",
@@ -201,7 +218,7 @@
       "KC_NO",
       "KC_NO",
       "KC_MPLY",
-      "C(KC_TAB)"
+      "MACRO(0)"
     ]
   ],
   "encoders": []
