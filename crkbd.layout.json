@@ -10,7 +10,7 @@
       "KC_E",
       "KC_R",
       "KC_T",
-      "KC_BSPC",
+      "MT(MOD_LCTL | MOD_LSFT | MOD_LALT | MOD_LGUI,KC_BSPC)",
       "KC_A",
       "KC_S",
       "KC_D",
