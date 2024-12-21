@@ -177,7 +177,7 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "C(S(KC_TAB))",
+      "LSA(KC_U)",
       "KC_NO",
       "KC_NO",
       "KC_MNXT",
@@ -201,7 +201,7 @@
       "KC_NO",
       "KC_NO",
       "KC_MPLY",
-      "C(KC_TAB)"
+      "LSA(KC_O)"
     ]
   ],
   "encoders": []
