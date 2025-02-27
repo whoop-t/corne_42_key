@@ -1,5 +1,7 @@
 # Corne 42 key layout
 
+Via and QMK keymaps for crkbd
+
 [Via](https://usevia.app/)
 
 [Keycodes](https://docs.qmk.fm/keycodes_basic)
