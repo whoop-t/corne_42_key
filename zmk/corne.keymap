@@ -25,7 +25,7 @@
   &none &kp EXCL &kp AT &kp LBRC &kp RBRC &kp ASTRK   &kp PLUS &kp EQUAL &kp LT &kp GT &kp HASH &none
   &kp BSPC &kp DLLR &kp TILDE &kp LPAR &kp RPAR &none   &none &kp MINUS &kp UNDER &kp AMPS &kp PIPE &kp DEL
   &none &kp CARET &kp PRCNT &kp LBKT &kp RBKT &none   &none &kp DQT &kp SQT &kp GRAVE &kp BSLH &none
-      &none &none &kp ENTER   &kp SPACE &none &none
+      &none &none &kp LG(ENTER)   &kp SPACE &none &none
                         >;
                 };
                 nums_workspace {
