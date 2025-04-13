@@ -2,6 +2,9 @@
 
 Via keymaps for crkbd
 
+> [!NOTE]
+> I use QMK/ZMK for most my boards now.
+
 ## Via
 
 [Via](https://usevia.app/)
